@@ -14,6 +14,7 @@ human hand-off when it matters, privacy by design and regression tests for agent
 |---|---|---|
 | [khun-aran-restaurant-agent](https://github.com/jmfernandezcof/khun-aran-restaurant-agent) | Multilingual reservation agent for a resort restaurant, with staff hand-off over Telegram · [live demo](https://demo-talay.nomadprompters.es) | n8n · Claude · PostgreSQL |
 | [thaislator-pwa](https://github.com/jmfernandezcof/thaislator-pwa) + [api](https://github.com/jmfernandezcof/thaislator-api) | Trilingual travel companion for Thailand: translator, menu and sign reader (OCR + inpainting), phrasebook · [live](https://eurthai.nomadprompters.es) | Vanilla JS PWA · Node · Claude |
+| [micodex](https://github.com/jmfernandezcof/micodex) | Offline app for a village mushroom festival: species catalogue, photo collection and collectable gnomes. Never says if a mushroom is edible; photos stay on the phone · [live](https://setas.nomadprompters.es) | Preact PWA · Vite · IndexedDB |
 | [manuel-vending-bot](https://github.com/jmfernandezcof/manuel-vending-bot) | Level-1 field technician on Telegram that answers only from the manufacturer manuals | n8n · OpenAI Responses + RAG |
 | [valdoria](https://github.com/jmfernandezcof/valdoria) | Concept hotel website with an AI avatar concierge | JavaScript · n8n |
 | [nomad-ops](https://github.com/jmfernandezcof/nomad-ops) | Security-first enterprise operations assistant: the AI retrieves authorized context and proposes actions, while deterministic code authorizes and audits them (synthetic data) | FastAPI · TypeScript |
